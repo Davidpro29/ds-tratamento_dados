@@ -8,5 +8,5 @@ Com pandas, seaborn e statistics inportadas, a tabela de uma insitiição financ
  - Idade estava errada, tinha -20 e 140 (isso não etiste) e foram tratados.
  - Tinha ID duplicado. Tratado!
  
- Foi identificado que muitos clientes estavam com saldo "0" na conta, prossivelmente desistindo do banco, acredito que o marketing tome providência dessa situação.
+ Foi identificado que muitos clientes estavam com saldo "0" na conta, possivelmente desistindo do banco, acredito que o marketing tome providência dessa situação.
  
